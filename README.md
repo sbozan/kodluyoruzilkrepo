@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet de index.html barındırıyor.
-![projeresmi](https://raw.githubusercontent.com/sbozan/kodluyoruz/main/Ekran%20Resmi%202023-06-09%20O%CC%88S%206.19.49.png?token=GHSAT0AAAAAACDRKQU6KE27E3SUOUUXHAUUZEDKHZA)
+![projeresmi](https://raw.githubusercontent.com/sbozan/kodluyoruz/main/Ekran%20Resmi%202023-06-09%20O%CC%88S%206.19.49.png?token=GHSAT0AAAAAACDRKQU7HO3WACVKCVQUCVRKZEDKVUQ)
 ## Installation
 Özellikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```
